@@ -1,4 +1,5 @@
 girls-that-code
 ===============
 
-twitter script from one of the classes
+This is a repository hosting all the scripts we worked on during the "Girls that Code" classes
+
